@@ -1,0 +1,7 @@
+{
+  "name": "Area 32 Gym",
+  "description": "Aplicación oficial de gestión de rutinas y nutrición para Area 32 Gym. Entrena, aliméntate y progresa.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
